@@ -1,0 +1,2476 @@
+{
+    "songs": [
+        {
+            "id": "3-Doors-Down-Kryptonite",
+            "songName": "Kryptonite",
+            "artist": "3 Doors Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/3-Doors-Down-Kryptonite.zip",
+            "fileSizeMB": 5.349999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "A-Flock-Of-Seagulls-I-Ran-So-Far-Away",
+            "songName": "I Ran (So Far Away)",
+            "artist": "A Flock Of Seagulls",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/A-Flock-Of-Seagulls-I-Ran-So-Far-Away.zip",
+            "fileSizeMB": 7.090000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "a-ha-Take-on-Me",
+            "songName": "Take on Me",
+            "artist": "a-ha",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/a-ha-Take-on-Me.zip",
+            "fileSizeMB": 5.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "A-Touch-of-Class-Around-the-World-La-La-La-La-La",
+            "songName": "Around the World (La La La La La)",
+            "artist": "A Touch of Class",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/A-Touch-of-Class-Around-the-World-La-La-La-La-La.zip",
+            "fileSizeMB": 4.920000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ABBA-Dancing-Queen",
+            "songName": "Dancing Queen",
+            "artist": "ABBA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ABBA-Dancing-Queen.zip",
+            "fileSizeMB": 5.289999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ABBA-Gimme-Gimme-Gimme-A-Man-After-Midnight",
+            "songName": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+            "artist": "ABBA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ABBA-Gimme-Gimme-Gimme-A-Man-After-Midnight.zip",
+            "fileSizeMB": 6.71999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ABBA-Mamma-Mia",
+            "songName": "Mamma Mia",
+            "artist": "ABBA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ABBA-Mamma-Mia.zip",
+            "fileSizeMB": 4.909999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ABBA-Money-Money-Money",
+            "songName": "Money, Money, Money",
+            "artist": "ABBA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ABBA-Money-Money-Money.zip",
+            "fileSizeMB": 4.289999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ABBA-Waterloo",
+            "songName": "Waterloo",
+            "artist": "ABBA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ABBA-Waterloo.zip",
+            "fileSizeMB": 3.7899999618530275,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ACDC-Hells-Bells",
+            "songName": "Hells Bells",
+            "artist": "AC/DC",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ACDC-Hells-Bells.zip",
+            "fileSizeMB": 4.769999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ACDC-Highway-to-Hell",
+            "songName": "Highway to Hell",
+            "artist": "AC/DC",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ACDC-Highway-to-Hell.zip",
+            "fileSizeMB": 4.78000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ACDC-Thunderstruck",
+            "songName": "Thunderstruck",
+            "artist": "AC/DC",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ACDC-Thunderstruck.zip",
+            "fileSizeMB": 6.739999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Aerosmith-Dream-On",
+            "songName": "Dream On",
+            "artist": "Aerosmith",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Aerosmith-Dream-On.zip",
+            "fileSizeMB": 4.079999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Aerosmith-Dude-Looks-Like-A-Lady",
+            "songName": "Dude (Looks Like A Lady)",
+            "artist": "Aerosmith",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Aerosmith-Dude-Looks-Like-A-Lady.zip",
+            "fileSizeMB": 6.119999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Aerosmith-I-Dont-Want-to-Miss-a-Thing",
+            "songName": "I Don't Want to Miss a Thing",
+            "artist": "Aerosmith",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Aerosmith-I-Dont-Want-to-Miss-a-Thing.zip",
+            "fileSizeMB": 6.840000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Aerosmith-Walk-This-Way",
+            "songName": "Walk This Way",
+            "artist": "Aerosmith",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Aerosmith-Walk-This-Way.zip",
+            "fileSizeMB": 5.079999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Alien-Ant-Farm-Smooth-Criminal",
+            "songName": "Smooth Criminal",
+            "artist": "Alien Ant Farm",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Alien-Ant-Farm-Smooth-Criminal.zip",
+            "fileSizeMB": 4.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Aqua-Barbie-Girl",
+            "songName": "Barbie Girl",
+            "artist": "Aqua",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Aqua-Barbie-Girl.zip",
+            "fileSizeMB": 3.0299999713897707,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Arctic-Monkeys-505",
+            "songName": "505",
+            "artist": "Arctic Monkeys",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Arctic-Monkeys-505.zip",
+            "fileSizeMB": 5.809999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Arctic-Monkeys-Do-I-Wanna-Know",
+            "songName": "Do I Wanna Know?",
+            "artist": "Arctic Monkeys",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Arctic-Monkeys-Do-I-Wanna-Know.zip",
+            "fileSizeMB": 6.269999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Arctic-Monkeys-I-Wanna-Be-Yours",
+            "songName": "I Wanna Be Yours",
+            "artist": "Arctic Monkeys",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Arctic-Monkeys-I-Wanna-Be-Yours.zip",
+            "fileSizeMB": 4.230000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Arctic-Monkeys-Whyd-You-Only-Call-Me-When-Youre-High",
+            "songName": "Why'd You Only Call Me When You're High?",
+            "artist": "Arctic Monkeys",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Arctic-Monkeys-Whyd-You-Only-Call-Me-When-Youre-High.zip",
+            "fileSizeMB": 3.690000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Audioslave-Like-a-Stone",
+            "songName": "Like a Stone",
+            "artist": "Audioslave",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Audioslave-Like-a-Stone.zip",
+            "fileSizeMB": 6.75,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Balu-Brigada-Backseat",
+            "songName": "Backseat",
+            "artist": "Balu Brigada",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Balu-Brigada-Backseat.zip",
+            "fileSizeMB": 8.800000190734864,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bee-Gees-Stayin-Alive",
+            "songName": "Stayin' Alive",
+            "artist": "Bee Gees",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bee-Gees-Stayin-Alive.zip",
+            "fileSizeMB": 6.53000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Berlin-Take-My-Breath-Away",
+            "songName": "Take My Breath Away",
+            "artist": "Berlin",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Berlin-Take-My-Breath-Away.zip",
+            "fileSizeMB": 5.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Billy-Joel-Piano-Man",
+            "songName": "Piano Man",
+            "artist": "Billy Joel",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Billy-Joel-Piano-Man.zip",
+            "fileSizeMB": 7.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Billy-Joel-Uptown-Girl",
+            "songName": "Uptown Girl",
+            "artist": "Billy Joel",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Billy-Joel-Uptown-Girl.zip",
+            "fileSizeMB": 4.539999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Billy-Joel-We-Didnt-Start-the-Fire",
+            "songName": "We Didn't Start the Fire",
+            "artist": "Billy Joel",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Billy-Joel-We-Didnt-Start-the-Fire.zip",
+            "fileSizeMB": 6.619999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Eyed-Peas-Boom-Boom-Pow",
+            "songName": "Boom Boom Pow",
+            "artist": "Black Eyed Peas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Eyed-Peas-Boom-Boom-Pow.zip",
+            "fileSizeMB": 5.739999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Eyed-Peas-I-Gotta-Feeling",
+            "songName": "I Gotta Feeling",
+            "artist": "Black Eyed Peas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Eyed-Peas-I-Gotta-Feeling.zip",
+            "fileSizeMB": 6.639999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Eyed-Peas-Meet-Me-Halfway",
+            "songName": "Meet Me Halfway",
+            "artist": "Black Eyed Peas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Eyed-Peas-Meet-Me-Halfway.zip",
+            "fileSizeMB": 6.550000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Eyed-Peas-Pump-It",
+            "songName": "Pump It",
+            "artist": "Black Eyed Peas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Eyed-Peas-Pump-It.zip",
+            "fileSizeMB": 3.259999990463257,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Eyed-Peas-Rock-That-Body",
+            "songName": "Rock That Body",
+            "artist": "Black Eyed Peas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Eyed-Peas-Rock-That-Body.zip",
+            "fileSizeMB": 6.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Black-Sabbath-Paranoid",
+            "songName": "Paranoid",
+            "artist": "Black Sabbath",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Black-Sabbath-Paranoid.zip",
+            "fileSizeMB": 3.859999895095825,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Blur-Song-2",
+            "songName": "Song 2",
+            "artist": "Blur",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Blur-Song-2.zip",
+            "fileSizeMB": 2.7799999713897707,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-Drake-Metal",
+            "songName": "Drake Metal",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/BNnnen-Drake-Metal.zip",
+            "fileSizeMB": 2.450000047683716,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Bad-Medicine",
+            "songName": "Bad Medicine",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Bad-Medicine.zip",
+            "fileSizeMB": 7.260000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Blame-It-On-The-Love-Of-Rock-Roll",
+            "songName": "Blame It On The Love Of Rock & Roll",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Blame-It-On-The-Love-Of-Rock-Roll.zip",
+            "fileSizeMB": 5.980000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Blaze-Of-Glory",
+            "songName": "Blaze Of Glory",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Blaze-Of-Glory.zip",
+            "fileSizeMB": 7.690000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Born-To-Be-My-Baby",
+            "songName": "Born To Be My Baby",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Born-To-Be-My-Baby.zip",
+            "fileSizeMB": 6.429999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Damned",
+            "songName": "Damned",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Damned.zip",
+            "fileSizeMB": 6.289999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Have-A-Nice-Day",
+            "songName": "Have A Nice Day",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Have-A-Nice-Day.zip",
+            "fileSizeMB": 5.25,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-In-And-Out-Of-Love",
+            "songName": "In And Out Of Love",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-In-And-Out-Of-Love.zip",
+            "fileSizeMB": 6.099999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Its-My-Life",
+            "songName": "It's My Life",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Its-My-Life.zip",
+            "fileSizeMB": 5.110000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Keep-The-Faith",
+            "songName": "Keep The Faith",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Keep-The-Faith.zip",
+            "fileSizeMB": 7.949999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Lay-Your-Hands-On-Me",
+            "songName": "Lay Your Hands On Me",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Lay-Your-Hands-On-Me.zip",
+            "fileSizeMB": 8.239999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Livin-On-A-Prayer",
+            "songName": "Livin' On A Prayer",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Livin-On-A-Prayer.zip",
+            "fileSizeMB": 5.75,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Queen-Of-New-Orleans",
+            "songName": "Queen Of New Orleans",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Queen-Of-New-Orleans.zip",
+            "fileSizeMB": 6.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Raise-Your-Hands",
+            "songName": "Raise Your Hands",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Raise-Your-Hands.zip",
+            "fileSizeMB": 5.889999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Runaway-Extended-Version",
+            "songName": "Runaway (Extended Version)",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Runaway-Extended-Version.zip",
+            "fileSizeMB": 6.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Someday-Ill-Be-Saturday-Night",
+            "songName": "Someday I'll Be Saturday Night",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Someday-Ill-Be-Saturday-Night.zip",
+            "fileSizeMB": 6.429999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Something-To-Believe-In",
+            "songName": "Something To Believe In",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Something-To-Believe-In.zip",
+            "fileSizeMB": 7.460000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Thats-What-The-Water-Made-Me",
+            "songName": "That's What The Water Made Me",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Thats-What-The-Water-Made-Me.zip",
+            "fileSizeMB": 6.050000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-These-Days",
+            "songName": "These Days",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-These-Days.zip",
+            "fileSizeMB": 8.899999618530274,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Undivided",
+            "songName": "Undivided",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Undivided.zip",
+            "fileSizeMB": 5.269999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-Wanted-Dead-Or-Alive",
+            "songName": "Wanted Dead Or Alive",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-Wanted-Dead-Or-Alive.zip",
+            "fileSizeMB": 7.079999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bon-Jovi-You-Give-Love-A-Bad-Name",
+            "songName": "You Give Love A Bad Name",
+            "artist": "Bon Jovi",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bon-Jovi-You-Give-Love-A-Bad-Name.zip",
+            "fileSizeMB": 5.110000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bring-Me-The-Horizon-Can-You-Feel-My-Heart",
+            "songName": "Can You Feel My Heart",
+            "artist": "Bring Me The Horizon",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bring-Me-The-Horizon-Can-You-Feel-My-Heart.zip",
+            "fileSizeMB": 5.210000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bring-Me-The-Horizon-Throne",
+            "songName": "Throne",
+            "artist": "Bring Me The Horizon",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bring-Me-The-Horizon-Throne.zip",
+            "fileSizeMB": 4.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Britney-Spears-Toxic",
+            "songName": "Toxic",
+            "artist": "Britney Spears",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Britney-Spears-Toxic.zip",
+            "fileSizeMB": 4.570000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Bryan-Adams-Summer-of-69",
+            "songName": "Summer of 69",
+            "artist": "Bryan Adams",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Bryan-Adams-Summer-of-69.zip",
+            "fileSizeMB": 5.71999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "C418-Aria-Math",
+            "songName": "Aria Math",
+            "artist": "C418",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/C418-Aria-Math.zip",
+            "fileSizeMB": 7.119999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Camellia-crystallized",
+            "songName": "crystallized",
+            "artist": "Camellia",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Camellia-crystallized.zip",
+            "fileSizeMB": 6.239999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Camellia-Exit-This-Earths-Atomosphere",
+            "songName": "Exit This Earth's Atomosphere",
+            "artist": "Camellia",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Camellia-Exit-This-Earths-Atomosphere.zip",
+            "fileSizeMB": 7.510000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Camellia-GHOST",
+            "songName": "GHOST",
+            "artist": "Camellia",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Camellia-GHOST.zip",
+            "fileSizeMB": 7.929999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Camellia-GHOUL",
+            "songName": "GHOUL",
+            "artist": "Camellia",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Camellia-GHOUL.zip",
+            "fileSizeMB": 6.190000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Camellia-Light-it-up",
+            "songName": "Light it up",
+            "artist": "Camellia",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Camellia-Light-it-up.zip",
+            "fileSizeMB": 8.5600004196167,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Carly-Rae-Jepsen-Call-Me-Maybe",
+            "songName": "Call Me Maybe",
+            "artist": "Carly Rae Jepsen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Carly-Rae-Jepsen-Call-Me-Maybe.zip",
+            "fileSizeMB": 4.449999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Carte-Blanq-Nils-van-Zandt-Maxx-Power-33-Max-Verstappen-Champions-Mix",
+            "songName": "33 Max Verstappen (Champions Mix)",
+            "artist": "Carte Blanq, Nils van Zandt & Maxx Power",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Carte-Blanq-Nils-van-Zandt-Maxx-Power-33-Max-Verstappen-Champions-Mix.zip",
+            "fileSizeMB": 3.9200000762939455,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Chappell-Roan-Good-Luck-Babe",
+            "songName": "Good Luck, Babe!",
+            "artist": "Chappell Roan",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Chappell-Roan-Good-Luck-Babe.zip",
+            "fileSizeMB": 5.0,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Chris-Cornell-You-Know-My-Name",
+            "songName": "You Know My Name",
+            "artist": "Chris Cornell",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Chris-Cornell-You-Know-My-Name.zip",
+            "fileSizeMB": 5.510000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Coldplay-Viva-La-Vida",
+            "songName": "Viva La Vida",
+            "artist": "Coldplay",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Coldplay-Viva-La-Vida.zip",
+            "fileSizeMB": 5.539999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Coolio-Gangstas-Paradise-feat-L-V",
+            "songName": "Gangsta's Paradise (feat. L.V.)",
+            "artist": "Coolio",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Coolio-Gangstas-Paradise-feat-L-V.zip",
+            "fileSizeMB": 5.53000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Creedence-Clearwater-Revival-Fortunate-Son",
+            "songName": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Creedence-Clearwater-Revival-Fortunate-Son.zip",
+            "fileSizeMB": 3.2100000381469728,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain",
+            "songName": "Have You Ever Seen The Rain",
+            "artist": "Creedence Clearwater Revival",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain.zip",
+            "fileSizeMB": 3.680000066757202,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Creo-Crazy",
+            "songName": "Crazy",
+            "artist": "Creo",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Creo-Crazy.zip",
+            "fileSizeMB": 3.569999933242798,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Creo-Drift",
+            "songName": "Drift",
+            "artist": "Creo",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Creo-Drift.zip",
+            "fileSizeMB": 4.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "D12-My-Band",
+            "songName": "My Band",
+            "artist": "D12",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/D12-My-Band.zip",
+            "fileSizeMB": 6.860000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Daft-Punk-Get-Lucky-feat-Pharrell-Williams-and-Nile-Rodgers",
+            "songName": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+            "artist": "Daft Punk",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Daft-Punk-Get-Lucky-feat-Pharrell-Williams-and-Nile-Rodgers.zip",
+            "fileSizeMB": 8.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Daft-Punk-Harder-Better-Faster-Stronger",
+            "songName": "Harder, Better, Faster, Stronger",
+            "artist": "Daft Punk",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Daft-Punk-Harder-Better-Faster-Stronger.zip",
+            "fileSizeMB": 5.139999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Daft-Punk-Julian-Casablancas-Instant-Crush-feat-Julian-Casablancas",
+            "songName": "Instant Crush (feat. Julian Casablancas)",
+            "artist": "Daft Punk & Julian Casablancas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Daft-Punk-Julian-Casablancas-Instant-Crush-feat-Julian-Casablancas.zip",
+            "fileSizeMB": 7.769999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "David-Bowie-Space-Oddity",
+            "songName": "Space Oddity",
+            "artist": "David Bowie",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/David-Bowie-Space-Oddity.zip",
+            "fileSizeMB": 7.320000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "David-Bowie-Starman",
+            "songName": "Starman",
+            "artist": "David Bowie",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/David-Bowie-Starman.zip",
+            "fileSizeMB": 5.840000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Dead-Or-Alive-You-Spin-Me-Round-Like-a-Record",
+            "songName": "You Spin Me Round (Like a Record)",
+            "artist": "Dead Or Alive",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Dead-Or-Alive-You-Spin-Me-Round-Like-a-Record.zip",
+            "fileSizeMB": 4.460000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Dimrain47-At-the-Speed-of-Light",
+            "songName": "At the Speed of Light",
+            "artist": "Dimrain47",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Dimrain47-At-the-Speed-of-Light.zip",
+            "fileSizeMB": 5.769999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Dion-Timmer-Shiawase",
+            "songName": "Shiawase",
+            "artist": "Dion Timmer",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Dion-Timmer-Shiawase.zip",
+            "fileSizeMB": 5.019999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Disturbed-Down-with-the-Sickness",
+            "songName": "Down with the Sickness",
+            "artist": "Disturbed",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Disturbed-Down-with-the-Sickness.zip",
+            "fileSizeMB": 6.400000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Doechii-Anxiety",
+            "songName": "Anxiety",
+            "artist": "Doechii",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Doechii-Anxiety.zip",
+            "fileSizeMB": 5.739999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Don-Mclean-American-Pie",
+            "songName": "American Pie",
+            "artist": "Don Mclean",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Don-Mclean-American-Pie.zip",
+            "fileSizeMB": 11.770000457763672,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Dragon-Rain",
+            "songName": "Rain",
+            "artist": "Dragon",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Dragon-Rain.zip",
+            "fileSizeMB": 5.019999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Dua-Lipa-Levitating",
+            "songName": "Levitating",
+            "artist": "Dua Lipa",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Dua-Lipa-Levitating.zip",
+            "fileSizeMB": 4.670000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eagles-Hotel-California",
+            "songName": "Hotel California",
+            "artist": "Eagles",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eagles-Hotel-California.zip",
+            "fileSizeMB": 9.0,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Electric-Light-Orchestra-Mr-Blue-Sky",
+            "songName": "Mr. Blue Sky",
+            "artist": "Electric Light Orchestra",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Electric-Light-Orchestra-Mr-Blue-Sky.zip",
+            "fileSizeMB": 5.070000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Elton-John-Im-Still-Standing",
+            "songName": "I'm Still Standing",
+            "artist": "Elton John",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Elton-John-Im-Still-Standing.zip",
+            "fileSizeMB": 4.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Elton-John-Rocket-Man-I-Think-Its-Going-To-Be-A-Long-Long-Time",
+            "songName": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+            "artist": "Elton John",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Elton-John-Rocket-Man-I-Think-Its-Going-To-Be-A-Long-Long-Time.zip",
+            "fileSizeMB": 4.300000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Elton-John-Tiny-Dancer",
+            "songName": "Tiny Dancer",
+            "artist": "Elton John",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Elton-John-Tiny-Dancer.zip",
+            "fileSizeMB": 8.649999618530274,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Houdini",
+            "songName": "Houdini",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Houdini.zip",
+            "fileSizeMB": 5.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Lose-Yourself",
+            "songName": "Lose Yourself",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Lose-Yourself.zip",
+            "fileSizeMB": 7.329999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Rap-God",
+            "songName": "Rap God",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Rap-God.zip",
+            "fileSizeMB": 8.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Sing-For-The-Moment",
+            "songName": "Sing For The Moment",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Sing-For-The-Moment.zip",
+            "fileSizeMB": 7.789999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-The-Real-Slim-Shady",
+            "songName": "The Real Slim Shady",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-The-Real-Slim-Shady.zip",
+            "fileSizeMB": 6.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Underground",
+            "songName": "Underground",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Underground.zip",
+            "fileSizeMB": 8.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Venom",
+            "songName": "Venom",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Venom.zip",
+            "fileSizeMB": 6.199999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Eminem-Without-Me",
+            "songName": "Without Me",
+            "artist": "Eminem",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Eminem-Without-Me.zip",
+            "fileSizeMB": 6.809999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Empire-Of-The-Sun-Walking-On-A-Dream",
+            "songName": "Walking On A Dream",
+            "artist": "Empire Of The Sun",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Empire-Of-The-Sun-Walking-On-A-Dream.zip",
+            "fileSizeMB": 4.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Empire-Of-The-Sun-We-Are-The-People",
+            "songName": "We Are The People",
+            "artist": "Empire Of The Sun",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Empire-Of-The-Sun-We-Are-The-People.zip",
+            "fileSizeMB": 6.159999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "F-777-Sonic-Blaster",
+            "songName": "Sonic Blaster",
+            "artist": "F-777",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/F-777-Sonic-Blaster.zip",
+            "fileSizeMB": 4.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Filter-Hey-Man-Nice-Shot",
+            "songName": "Hey Man, Nice Shot",
+            "artist": "Filter",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Filter-Hey-Man-Nice-Shot.zip",
+            "fileSizeMB": 7.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Fleetwood-Mac-Dreams",
+            "songName": "Dreams",
+            "artist": "Fleetwood Mac",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Fleetwood-Mac-Dreams.zip",
+            "fileSizeMB": 5.900000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Fleetwood-Mac-The-Chain",
+            "songName": "The Chain",
+            "artist": "Fleetwood Mac",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Fleetwood-Mac-The-Chain.zip",
+            "fileSizeMB": 6.210000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-Arlandria",
+            "songName": "Arlandria",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-Arlandria.zip",
+            "fileSizeMB": 6.139999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-Everlong",
+            "songName": "Everlong",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-Everlong.zip",
+            "fileSizeMB": 5.760000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-My-Hero",
+            "songName": "My Hero",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-My-Hero.zip",
+            "fileSizeMB": 5.949999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-Run",
+            "songName": "Run",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-Run.zip",
+            "fileSizeMB": 7.420000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-FIghters-Stacked-Actors",
+            "songName": "Stacked Actors",
+            "artist": "Foo FIghters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-FIghters-Stacked-Actors.zip",
+            "fileSizeMB": 5.889999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-The-Pretender",
+            "songName": "The Pretender",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-The-Pretender.zip",
+            "fileSizeMB": 6.170000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foo-Fighters-The-Sky-Is-A-Neighborhood",
+            "songName": "The Sky Is A Neighborhood",
+            "artist": "Foo Fighters",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foo-Fighters-The-Sky-Is-A-Neighborhood.zip",
+            "fileSizeMB": 5.610000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Foster-The-People-Pumped-Up-Kicks",
+            "songName": "Pumped Up Kicks",
+            "artist": "Foster The People",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Foster-The-People-Pumped-Up-Kicks.zip",
+            "fileSizeMB": 5.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Fountains-Of-Wayne-Stacys-Mom",
+            "songName": "Stacy's Mom",
+            "artist": "Fountains Of Wayne",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Fountains-Of-Wayne-Stacys-Mom.zip",
+            "fileSizeMB": 4.5,
+            "version": "1.0.0"
+        },
+        {
+            "id": "GHOST-DATA-Become-God",
+            "songName": "Become God",
+            "artist": "GHOST DATA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/GHOST-DATA-Become-God.zip",
+            "fileSizeMB": 6.510000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "GHOST-DATA-Dream-Drive-Operating-System",
+            "songName": "Dream Drive Operating System",
+            "artist": "GHOST DATA",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/GHOST-DATA-Dream-Drive-Operating-System.zip",
+            "fileSizeMB": 6.28000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Glorb-The-Bottom-2",
+            "songName": "The Bottom 2",
+            "artist": "Glorb",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Glorb-The-Bottom-2.zip",
+            "fileSizeMB": 3.7899999618530275,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Gnarls-Barkley-Crazy",
+            "songName": "Crazy",
+            "artist": "Gnarls Barkley",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Gnarls-Barkley-Crazy.zip",
+            "fileSizeMB": 4.090000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Goanna-Solid-Rock",
+            "songName": "Solid Rock",
+            "artist": "Goanna",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Goanna-Solid-Rock.zip",
+            "fileSizeMB": 6.25,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Gorillaz-Feel-Good-Inc",
+            "songName": "Feel Good Inc.",
+            "artist": "Gorillaz",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Gorillaz-Feel-Good-Inc.zip",
+            "fileSizeMB": 5.079999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Gotye-Somebody-That-I-Used-To-Know-feat-Kimbra",
+            "songName": "Somebody That I Used To Know (feat. Kimbra)",
+            "artist": "Gotye",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Gotye-Somebody-That-I-Used-To-Know-feat-Kimbra.zip",
+            "fileSizeMB": 5.650000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Civil-War",
+            "songName": "Civil War",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Civil-War.zip",
+            "fileSizeMB": 10.600000381469727,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Knockin-On-Heavens-Door",
+            "songName": "Knockin' On Heaven's Door",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Knockin-On-Heavens-Door.zip",
+            "fileSizeMB": 7.690000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-November-Rain",
+            "songName": "November Rain",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-November-Rain.zip",
+            "fileSizeMB": 12.319999694824219,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Paradise-City",
+            "songName": "Paradise City",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Paradise-City.zip",
+            "fileSizeMB": 9.329999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Rocket-Queen",
+            "songName": "Rocket Queen",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Rocket-Queen.zip",
+            "fileSizeMB": 8.579999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Sweet-Child-O-Mine",
+            "songName": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Sweet-Child-O-Mine.zip",
+            "fileSizeMB": 6.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Sympathy-For-The-Devil",
+            "songName": "Sympathy For The Devil",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Sympathy-For-The-Devil.zip",
+            "fileSizeMB": 10.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Guns-N-Roses-Welcome-To-The-Jungle",
+            "songName": "Welcome To The Jungle",
+            "artist": "Guns N' Roses",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Guns-N-Roses-Welcome-To-The-Jungle.zip",
+            "fileSizeMB": 6.269999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Harry-Styles-As-It-Was",
+            "songName": "As It Was",
+            "artist": "Harry Styles",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Harry-Styles-As-It-Was.zip",
+            "fileSizeMB": 3.799999952316284,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Imagine-Dragons-Warriors",
+            "songName": "Warriors",
+            "artist": "Imagine Dragons",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Imagine-Dragons-Warriors.zip",
+            "fileSizeMB": 3.9100000858306886,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Iron-Maiden-Mother-Russia",
+            "songName": "Mother Russia",
+            "artist": "Iron Maiden",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Iron-Maiden-Mother-Russia.zip",
+            "fileSizeMB": 7.619999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Iron-Maiden-Run-to-the-Hills",
+            "songName": "Run to the Hills",
+            "artist": "Iron Maiden",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Iron-Maiden-Run-to-the-Hills.zip",
+            "fileSizeMB": 5.380000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Iron-Maiden-Speed-of-Light",
+            "songName": "Speed of Light",
+            "artist": "Iron Maiden",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Iron-Maiden-Speed-of-Light.zip",
+            "fileSizeMB": 6.940000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Iron-Maiden-Wasted-Years",
+            "songName": "Wasted Years",
+            "artist": "Iron Maiden",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Iron-Maiden-Wasted-Years.zip",
+            "fileSizeMB": 7.099999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "ISSBROKIE-JAMS",
+            "songName": "JAMS!",
+            "artist": "ISSBROKIE!",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/ISSBROKIE-JAMS.zip",
+            "fileSizeMB": 2.3499999046325685,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Jimmy-Eat-World-The-Middle",
+            "songName": "The Middle",
+            "artist": "Jimmy Eat World",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Jimmy-Eat-World-The-Middle.zip",
+            "fileSizeMB": 3.8299999237060549,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Journey-Dont-Stop-Believin",
+            "songName": "Don't Stop Believin'",
+            "artist": "Journey",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Journey-Dont-Stop-Believin.zip",
+            "fileSizeMB": 5.75,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Kansas-Carry-on-Wayward-Son",
+            "songName": "Carry on Wayward Son",
+            "artist": "Kansas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Kansas-Carry-on-Wayward-Son.zip",
+            "fileSizeMB": 7.409999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Katy-Perry-California-Gurls",
+            "songName": "California Gurls",
+            "artist": "Katy Perry",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Katy-Perry-California-Gurls.zip",
+            "fileSizeMB": 5.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Katy-Perry-I-Kissed-A-Girl",
+            "songName": "I Kissed A Girl",
+            "artist": "Katy Perry",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Katy-Perry-I-Kissed-A-Girl.zip",
+            "fileSizeMB": 4.110000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Kenny-Loggins-Danger-Zone-From-Top-Gun-Original-Soundtrack",
+            "songName": "Danger Zone (From Top Gun Original Soundtrack)",
+            "artist": "Kenny Loggins",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Kenny-Loggins-Danger-Zone-From-Top-Gun-Original-Soundtrack.zip",
+            "fileSizeMB": 4.96999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Kiss-I-Was-Made-For-Lovin-You",
+            "songName": "I Was Made For Lovin' You",
+            "artist": "Kiss",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Kiss-I-Was-Made-For-Lovin-You.zip",
+            "fileSizeMB": 6.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "KSI-Thick-Of-It-feat-Trippie-Redd",
+            "songName": "Thick Of It (feat. Trippie Redd)",
+            "artist": "KSI",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/KSI-Thick-Of-It-feat-Trippie-Redd.zip",
+            "fileSizeMB": 3.680000066757202,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Kurt-Cobain-Beans",
+            "songName": "Beans",
+            "artist": "Kurt Cobain",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Kurt-Cobain-Beans.zip",
+            "fileSizeMB": 1.8799999952316285,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lady-Gaga-Bad-Romance",
+            "songName": "Bad Romance",
+            "artist": "Lady Gaga",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lady-Gaga-Bad-Romance.zip",
+            "fileSizeMB": 6.78000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lady-Gaga-Bruno-Mars-Die-With-A-Smile",
+            "songName": "Die With A Smile",
+            "artist": "Lady Gaga & Bruno Mars",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lady-Gaga-Bruno-Mars-Die-With-A-Smile.zip",
+            "fileSizeMB": 5.75,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lady-Gaga-Poker-Face",
+            "songName": "Poker Face",
+            "artist": "Lady Gaga",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lady-Gaga-Poker-Face.zip",
+            "fileSizeMB": 5.460000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "LazyTown-We-Are-Number-One",
+            "songName": "We Are Number One",
+            "artist": "LazyTown",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/LazyTown-We-Are-Number-One.zip",
+            "fileSizeMB": 3.309999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Led-Zeppelin-Immigrant-Song",
+            "songName": "Immigrant Song",
+            "artist": "Led Zeppelin",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Led-Zeppelin-Immigrant-Song.zip",
+            "fileSizeMB": 3.380000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Led-Zeppelin-Stairway-to-Heaven",
+            "songName": "Stairway to Heaven",
+            "artist": "Led Zeppelin",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Led-Zeppelin-Stairway-to-Heaven.zip",
+            "fileSizeMB": 11.0600004196167,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lena-Raine-Pigstep",
+            "songName": "Pigstep",
+            "artist": "Lena Raine",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lena-Raine-Pigstep.zip",
+            "fileSizeMB": 2.2899999618530275,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lenny-Kravitz-Fly-Away",
+            "songName": "Fly Away",
+            "artist": "Lenny Kravitz",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lenny-Kravitz-Fly-Away.zip",
+            "fileSizeMB": 5.090000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Limp-Bizkit-Break-Stuff",
+            "songName": "Break Stuff",
+            "artist": "Limp Bizkit",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Limp-Bizkit-Break-Stuff.zip",
+            "fileSizeMB": 3.8399999141693117,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Limp-Bizkit-Rollin-Air-Raid-Vehicle",
+            "songName": "Rollin' (Air Raid Vehicle)",
+            "artist": "Limp Bizkit",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Limp-Bizkit-Rollin-Air-Raid-Vehicle.zip",
+            "fileSizeMB": 4.929999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-Crawling",
+            "songName": "Crawling",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-Crawling.zip",
+            "fileSizeMB": 4.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-In-The-End",
+            "songName": "In The End",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-In-The-End.zip",
+            "fileSizeMB": 4.940000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-New-Divide",
+            "songName": "New Divide",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-New-Divide.zip",
+            "fileSizeMB": 6.139999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-Numb",
+            "songName": "Numb",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-Numb.zip",
+            "fileSizeMB": 4.260000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-The-Emptiness-Machine",
+            "songName": "The Emptiness Machine",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-The-Emptiness-Machine.zip",
+            "fileSizeMB": 4.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Linkin-Park-What-Ive-Done",
+            "songName": "What I've Done",
+            "artist": "Linkin Park",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Linkin-Park-What-Ive-Done.zip",
+            "fileSizeMB": 3.1500000953674318,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Lynyrd-Skynyrd-Free-Bird",
+            "songName": "Free Bird",
+            "artist": "Lynyrd Skynyrd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Lynyrd-Skynyrd-Free-Bird.zip",
+            "fileSizeMB": 12.649999618530274,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Macklemore-Ryan-Lewis-Cant-Hold-Us-feat-Ray-Dalton",
+            "songName": "Can't Hold Us (feat. Ray Dalton)",
+            "artist": "Macklemore & Ryan Lewis",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Macklemore-Ryan-Lewis-Cant-Hold-Us-feat-Ray-Dalton.zip",
+            "fileSizeMB": 3.9800000190734865,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Mad-Rat-Dead-If-We-Could-Be-Friends",
+            "songName": "If We Could Be Friends",
+            "artist": "Mad Rat Dead",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Mad-Rat-Dead-If-We-Could-Be-Friends.zip",
+            "fileSizeMB": 6.360000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Harder-To-Breathe",
+            "songName": "Harder To Breathe",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Harder-To-Breathe.zip",
+            "fileSizeMB": 3.9600000381469728,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Moves-Like-Jagger",
+            "songName": "Moves Like Jagger",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Moves-Like-Jagger.zip",
+            "fileSizeMB": 4.630000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Not-Coming-Home",
+            "songName": "Not Coming Home",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Not-Coming-Home.zip",
+            "fileSizeMB": 6.019999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Shiver",
+            "songName": "Shiver",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Shiver.zip",
+            "fileSizeMB": 4.130000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Sugar",
+            "songName": "Sugar",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Sugar.zip",
+            "fileSizeMB": 5.389999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Sunday-Morning",
+            "songName": "Sunday Morning",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Sunday-Morning.zip",
+            "fileSizeMB": 5.590000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Sweetest-Goodbye",
+            "songName": "Sweetest Goodbye",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Sweetest-Goodbye.zip",
+            "fileSizeMB": 6.199999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Tangled",
+            "songName": "Tangled",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Tangled.zip",
+            "fileSizeMB": 4.5,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-The-Sun",
+            "songName": "The Sun",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-The-Sun.zip",
+            "fileSizeMB": 5.769999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-This-Love",
+            "songName": "This Love",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-This-Love.zip",
+            "fileSizeMB": 4.710000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Maroon-5-Through-With-You",
+            "songName": "Through With You",
+            "artist": "Maroon 5",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Maroon-5-Through-With-You.zip",
+            "fileSizeMB": 4.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "MDK-Press-Start",
+            "songName": "Press Start",
+            "artist": "MDK",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/MDK-Press-Start.zip",
+            "fileSizeMB": 4.820000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Meat-Puppets-Oh-Me",
+            "songName": "Oh, Me",
+            "artist": "Meat Puppets",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Meat-Puppets-Oh-Me.zip",
+            "fileSizeMB": 4.179999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Meat-Puppets-Plateau",
+            "songName": "Plateau",
+            "artist": "Meat Puppets",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Meat-Puppets-Plateau.zip",
+            "fileSizeMB": 3.2699999809265138,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Megadeth-A-Tout-Le-Monde",
+            "songName": "A Tout Le Monde",
+            "artist": "Megadeth",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Megadeth-A-Tout-Le-Monde.zip",
+            "fileSizeMB": 6.139999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Megadeth-Set-The-World-Afire",
+            "songName": "Set The World Afire",
+            "artist": "Megadeth",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Megadeth-Set-The-World-Afire.zip",
+            "fileSizeMB": 7.980000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "meganeko-Milkshake",
+            "songName": "Milkshake",
+            "artist": "meganeko",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/meganeko-Milkshake.zip",
+            "fileSizeMB": 5.420000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "meganeko-The-Cyber-Grind",
+            "songName": "The Cyber Grind",
+            "artist": "meganeko",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/meganeko-The-Cyber-Grind.zip",
+            "fileSizeMB": 6.579999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Men-At-Work-Down-Under",
+            "songName": "Down Under",
+            "artist": "Men At Work",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Men-At-Work-Down-Under.zip",
+            "fileSizeMB": 5.119999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Metallica-Enter-Sandman",
+            "songName": "Enter Sandman",
+            "artist": "Metallica",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Metallica-Enter-Sandman.zip",
+            "fileSizeMB": 7.610000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Metallica-Master-Of-Puppets",
+            "songName": "Master Of Puppets",
+            "artist": "Metallica",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Metallica-Master-Of-Puppets.zip",
+            "fileSizeMB": 11.869999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Metallica-Nothing-Else-Matters",
+            "songName": "Nothing Else Matters",
+            "artist": "Metallica",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Metallica-Nothing-Else-Matters.zip",
+            "fileSizeMB": 8.899999618530274,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Jackson-Bad",
+            "songName": "Bad",
+            "artist": "Michael Jackson",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Jackson-Bad.zip",
+            "fileSizeMB": 5.679999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Jackson-Beat-It",
+            "songName": "Beat It",
+            "artist": "Michael Jackson",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Jackson-Beat-It.zip",
+            "fileSizeMB": 5.920000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Jackson-Billie-Jean",
+            "songName": "Billie Jean",
+            "artist": "Michael Jackson",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Jackson-Billie-Jean.zip",
+            "fileSizeMB": 6.730000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Jackson-Smooth-Criminal",
+            "songName": "Smooth Criminal",
+            "artist": "Michael Jackson",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Jackson-Smooth-Criminal.zip",
+            "fileSizeMB": 5.920000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Jackson-Thriller",
+            "songName": "Thriller",
+            "artist": "Michael Jackson",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Jackson-Thriller.zip",
+            "fileSizeMB": 8.220000267028809,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Michael-Sembello-Maniac",
+            "songName": "Maniac",
+            "artist": "Michael Sembello",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Michael-Sembello-Maniac.zip",
+            "fileSizeMB": 5.610000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Midnight-Oil-Beds-Are-Burning",
+            "songName": "Beds Are Burning",
+            "artist": "Midnight Oil",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Midnight-Oil-Beds-Are-Burning.zip",
+            "fileSizeMB": 5.860000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "MonochroMenace-MINIMUM-RAGE-ft-Kasane-Teto",
+            "songName": "MINIMUM RAGE [ft. Kasane Teto]",
+            "artist": "MonochroMenace",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/MonochroMenace-MINIMUM-RAGE-ft-Kasane-Teto.zip",
+            "fileSizeMB": 4.659999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Moon-Walker-New-God",
+            "songName": "New God",
+            "artist": "Moon Walker",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Moon-Walker-New-God.zip",
+            "fileSizeMB": 4.659999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Mother-Mother-FINGER",
+            "songName": "FINGER",
+            "artist": "Mother Mother",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Mother-Mother-FINGER.zip",
+            "fileSizeMB": 4.110000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Muse-Knights-of-Cydonia",
+            "songName": "Knights of Cydonia",
+            "artist": "Muse",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Muse-Knights-of-Cydonia.zip",
+            "fileSizeMB": 8.430000305175782,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Muse-Supermassive-Black-Hole",
+            "songName": "Supermassive Black Hole",
+            "artist": "Muse",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Muse-Supermassive-Black-Hole.zip",
+            "fileSizeMB": 4.820000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Motley-Crue-Dr-Feelgood",
+            "songName": "Dr. Feelgood",
+            "artist": "Motley Crue",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Motley-Crue-Dr-Feelgood.zip",
+            "fileSizeMB": 6.659999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Motley-Crue-Girls-Girls-Girls",
+            "songName": "Girls, Girls, Girls",
+            "artist": "Motley Crue",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Motley-Crue-Girls-Girls-Girls.zip",
+            "fileSizeMB": 6.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Motley-Crue-Kickstart-My-Heart",
+            "songName": "Kickstart My Heart",
+            "artist": "Motley Crue",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Motley-Crue-Kickstart-My-Heart.zip",
+            "fileSizeMB": 6.489999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Motley-Crue-Same-Ol-Situation-S-O-S",
+            "songName": "Same Ol' Situation (S.O.S.)",
+            "artist": "Motley Crue",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Motley-Crue-Same-Ol-Situation-S-O-S.zip",
+            "fileSizeMB": 5.789999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Come-As-You-Are",
+            "songName": "Come As You Are",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Come-As-You-Are.zip",
+            "fileSizeMB": 5.039999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Heart-Shaped-Box",
+            "songName": "Heart-Shaped Box",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Heart-Shaped-Box.zip",
+            "fileSizeMB": 6.46999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Lithium",
+            "songName": "Lithium",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Lithium.zip",
+            "fileSizeMB": 5.909999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Pennyroyal-Tea",
+            "songName": "Pennyroyal Tea",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Pennyroyal-Tea.zip",
+            "fileSizeMB": 5.039999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Rape-Me",
+            "songName": "Rape Me",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Rape-Me.zip",
+            "fileSizeMB": 3.9100000858306886,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Nirvana-Smells-Like-Teen-Spirit",
+            "songName": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Nirvana-Smells-Like-Teen-Spirit.zip",
+            "fileSizeMB": 6.389999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Outkast-Hey-Ya",
+            "songName": "Hey Ya!",
+            "artist": "Outkast",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Outkast-Hey-Ya.zip",
+            "fileSizeMB": 5.429999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Panda-Eyes-Colorblind",
+            "songName": "Colorblind",
+            "artist": "Panda Eyes",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Panda-Eyes-Colorblind.zip",
+            "fileSizeMB": 6.639999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Panda-Eyes-Shuriken-feat-FYER",
+            "songName": "Shuriken (feat. FYER)",
+            "artist": "Panda Eyes",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Panda-Eyes-Shuriken-feat-FYER.zip",
+            "fileSizeMB": 5.400000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Panda-Eyes-Teminite-Highscore",
+            "songName": "Highscore",
+            "artist": "Panda Eyes & Teminite",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Panda-Eyes-Teminite-Highscore.zip",
+            "fileSizeMB": 5.96999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Papa-Roach-Last-Resort",
+            "songName": "Last Resort",
+            "artist": "Papa Roach",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Papa-Roach-Last-Resort.zip",
+            "fileSizeMB": 3.059999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pearl-Jam-Alive",
+            "songName": "Alive",
+            "artist": "Pearl Jam",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pearl-Jam-Alive.zip",
+            "fileSizeMB": 7.840000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pearl-Jam-Blood",
+            "songName": "Blood",
+            "artist": "Pearl Jam",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pearl-Jam-Blood.zip",
+            "fileSizeMB": 3.890000104904175,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pearl-Jam-Even-Flow",
+            "songName": "Even Flow",
+            "artist": "Pearl Jam",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pearl-Jam-Even-Flow.zip",
+            "fileSizeMB": 6.71999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pearl-Jam-Jeremy",
+            "songName": "Jeremy",
+            "artist": "Pearl Jam",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pearl-Jam-Jeremy.zip",
+            "fileSizeMB": 7.300000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pegboard-Nerds-Gunslinga",
+            "songName": "Gunslinga",
+            "artist": "Pegboard Nerds",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pegboard-Nerds-Gunslinga.zip",
+            "fileSizeMB": 3.7899999618530275,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pegboard-Nerds-Swamp-Thing",
+            "songName": "Swamp Thing",
+            "artist": "Pegboard Nerds",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pegboard-Nerds-Swamp-Thing.zip",
+            "fileSizeMB": 6.070000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pink-Floyd-Another-Brick-In-The-Wall-Part-1",
+            "songName": "Another Brick In The Wall (Part 1)",
+            "artist": "Pink Floyd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pink-Floyd-Another-Brick-In-The-Wall-Part-1.zip",
+            "fileSizeMB": 4.400000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pink-Floyd-Another-Brick-In-The-Wall-Part-2",
+            "songName": "Another Brick In The Wall (Part 2)",
+            "artist": "Pink Floyd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pink-Floyd-Another-Brick-In-The-Wall-Part-2.zip",
+            "fileSizeMB": 5.480000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Pink-Floyd-Another-Brick-In-The-Wall-Part-3",
+            "songName": "Another Brick In The Wall (Part 3)",
+            "artist": "Pink Floyd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Pink-Floyd-Another-Brick-In-The-Wall-Part-3.zip",
+            "fileSizeMB": 1.7000000476837159,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Queen-Another-One-Bites-The-Dust",
+            "songName": "Another One Bites The Dust",
+            "artist": "Queen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Queen-Another-One-Bites-The-Dust.zip",
+            "fileSizeMB": 4.909999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Queen-Bohemian-Rhapsody",
+            "songName": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Queen-Bohemian-Rhapsody.zip",
+            "fileSizeMB": 5.420000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Queen-Dont-Stop-Me-Now",
+            "songName": "Don't Stop Me Now",
+            "artist": "Queen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Queen-Dont-Stop-Me-Now.zip",
+            "fileSizeMB": 4.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Queen-We-Will-Rock-You",
+            "songName": "We Will Rock You",
+            "artist": "Queen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Queen-We-Will-Rock-You.zip",
+            "fileSizeMB": 2.809999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Racal-Flatts-Life-is-a-Highway",
+            "songName": "Life is a Highway",
+            "artist": "Racal Flatts",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Racal-Flatts-Life-is-a-Highway.zip",
+            "fileSizeMB": 6.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Radiohead-Creep",
+            "songName": "Creep",
+            "artist": "Radiohead",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Radiohead-Creep.zip",
+            "fileSizeMB": 5.420000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Rage-Against-The-Machine-Guerrilla-Radio",
+            "songName": "Guerrilla Radio",
+            "artist": "Rage Against The Machine",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Rage-Against-The-Machine-Guerrilla-Radio.zip",
+            "fileSizeMB": 4.730000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Rage-Against-The-Machine-Killing-In-the-Name",
+            "songName": "Killing In the Name",
+            "artist": "Rage Against The Machine",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Rage-Against-The-Machine-Killing-In-the-Name.zip",
+            "fileSizeMB": 7.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Raleigh-Enphosed",
+            "songName": "Enphosed",
+            "artist": "Raleigh",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Raleigh-Enphosed.zip",
+            "fileSizeMB": 4.260000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Red-Hot-Chili-Peppers-Californication",
+            "songName": "Californication",
+            "artist": "Red Hot Chili Peppers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Red-Hot-Chili-Peppers-Californication.zip",
+            "fileSizeMB": 7.579999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Red-Hot-Chili-Peppers-Goodbye-Angels",
+            "songName": "Goodbye Angels",
+            "artist": "Red Hot Chili Peppers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Red-Hot-Chili-Peppers-Goodbye-Angels.zip",
+            "fileSizeMB": 6.150000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Red-Hot-Chili-Peppers-Otherside",
+            "songName": "Otherside",
+            "artist": "Red Hot Chili Peppers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Red-Hot-Chili-Peppers-Otherside.zip",
+            "fileSizeMB": 3.9200000762939455,
+            "version": "1.0.0"
+        },
+        {
+            "id": "RIOT-Jungle-Fury",
+            "songName": "Jungle Fury",
+            "artist": "RIOT",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/RIOT-Jungle-Fury.zip",
+            "fileSizeMB": 7.110000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Roddy-Ricch-The-Box",
+            "songName": "The Box",
+            "artist": "Roddy Ricch",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Roddy-Ricch-The-Box.zip",
+            "fileSizeMB": 4.519999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Rucka-Rucka-Ali-Im-Osama",
+            "songName": "I'm Osama",
+            "artist": "Rucka Rucka Ali",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Rucka-Rucka-Ali-Im-Osama.zip",
+            "fileSizeMB": 6.150000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Sabrina-Carpenter-Espresso",
+            "songName": "Espresso",
+            "artist": "Sabrina Carpenter",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Sabrina-Carpenter-Espresso.zip",
+            "fileSizeMB": 4.010000228881836,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Sean-Kingston-Fire-Burning",
+            "songName": "Fire Burning",
+            "artist": "Sean Kingston",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Sean-Kingston-Fire-Burning.zip",
+            "fileSizeMB": 5.519999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Silver-Wham-Bam-Shang-A-Lang",
+            "songName": "Wham Bam Shang-A-Lang",
+            "artist": "Silver",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Silver-Wham-Bam-Shang-A-Lang.zip",
+            "fileSizeMB": 4.900000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Soundgarden-Black-Hole-Sun",
+            "songName": "Black Hole Sun",
+            "artist": "Soundgarden",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Soundgarden-Black-Hole-Sun.zip",
+            "fileSizeMB": 7.320000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Stevie-Nicks-Edge-of-Seventeen",
+            "songName": "Edge of Seventeen",
+            "artist": "Stevie Nicks",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Stevie-Nicks-Edge-of-Seventeen.zip",
+            "fileSizeMB": 7.590000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Aerials",
+            "songName": "Aerials",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Aerials.zip",
+            "fileSizeMB": 5.389999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-ATWA",
+            "songName": "ATWA",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-ATWA.zip",
+            "fileSizeMB": 4.050000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-B-Y-O-B",
+            "songName": "B.Y.O.B.",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-B-Y-O-B.zip",
+            "fileSizeMB": 5.889999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Chop-Suey",
+            "songName": "Chop Suey!",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Chop-Suey.zip",
+            "fileSizeMB": 4.829999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Cigaro",
+            "songName": "Cigaro",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Cigaro.zip",
+            "fileSizeMB": 3.0299999713897707,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Holy-Mountains",
+            "songName": "Holy Mountains",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Holy-Mountains.zip",
+            "fileSizeMB": 7.570000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Hypnotize",
+            "songName": "Hypnotize",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Hypnotize.zip",
+            "fileSizeMB": 4.349999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-I-E-A-I-A-I-O",
+            "songName": "I-E-A-I-A-I-O",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-I-E-A-I-A-I-O.zip",
+            "fileSizeMB": 4.340000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Lonely-Day",
+            "songName": "Lonely Day",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Lonely-Day.zip",
+            "fileSizeMB": 3.859999895095825,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Lost-In-Hollywood",
+            "songName": "Lost In Hollywood",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Lost-In-Hollywood.zip",
+            "fileSizeMB": 7.369999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Prison-Song",
+            "songName": "Prison Song",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Prison-Song.zip",
+            "fileSizeMB": 4.579999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Psycho",
+            "songName": "Psycho",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Psycho.zip",
+            "fileSizeMB": 5.199999809265137,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Question",
+            "songName": "Question!",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Question.zip",
+            "fileSizeMB": 4.619999885559082,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-RadioVideo",
+            "songName": "Radio/Video",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-RadioVideo.zip",
+            "fileSizeMB": 5.730000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Spiders",
+            "songName": "Spiders",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Spiders.zip",
+            "fileSizeMB": 4.960000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Sugar",
+            "songName": "Sugar",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Sugar.zip",
+            "fileSizeMB": 3.5199999809265138,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Toxicity",
+            "songName": "Toxicity",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Toxicity.zip",
+            "fileSizeMB": 5.03000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "System-Of-A-Down-Violent-Pornography",
+            "songName": "Violent Pornography",
+            "artist": "System Of A Down",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/System-Of-A-Down-Violent-Pornography.zip",
+            "fileSizeMB": 4.860000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Talking-Heads-Psycho-Killer",
+            "songName": "Psycho Killer",
+            "artist": "Talking Heads",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Talking-Heads-Psycho-Killer.zip",
+            "fileSizeMB": 5.960000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Tears-For-Fears-Everybody-Wants-To-Rule-The-World",
+            "songName": "Everybody Wants To Rule The World",
+            "artist": "Tears For Fears",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Tears-For-Fears-Everybody-Wants-To-Rule-The-World.zip",
+            "fileSizeMB": 3.880000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Teddybears-Punkrocker-feat-Iggy-Pop",
+            "songName": "Punkrocker (feat. Iggy Pop)",
+            "artist": "Teddybears",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Teddybears-Punkrocker-feat-Iggy-Pop.zip",
+            "fileSizeMB": 3.799999952316284,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Teminite-MDK-Space-Invaders",
+            "songName": "Space Invaders",
+            "artist": "Teminite & MDK",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Teminite-MDK-Space-Invaders.zip",
+            "fileSizeMB": 7.989999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Teminite-Raise-The-Black-Flag",
+            "songName": "Raise The Black Flag",
+            "artist": "Teminite",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Teminite-Raise-The-Black-Flag.zip",
+            "fileSizeMB": 6.429999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Tenacious-D-Tribute",
+            "songName": "Tribute",
+            "artist": "Tenacious D",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Tenacious-D-Tribute.zip",
+            "fileSizeMB": 5.679999828338623,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Black-Boys-Lonely-Boy",
+            "songName": "Lonely Boy",
+            "artist": "The Black Boys",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Black-Boys-Lonely-Boy.zip",
+            "fileSizeMB": 4.409999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Buggles-Video-Killed-The-Radio-Star",
+            "songName": "Video Killed The Radio Star",
+            "artist": "The Buggles",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Buggles-Video-Killed-The-Radio-Star.zip",
+            "fileSizeMB": 5.769999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Chemical-Brothers-Hey-Boy-Hey-Girl",
+            "songName": "Hey Boy Hey Girl",
+            "artist": "The Chemical Brothers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Chemical-Brothers-Hey-Boy-Hey-Girl.zip",
+            "fileSizeMB": 6.630000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Human-League-Dont-You-Want-Me",
+            "songName": "Don't You Want Me",
+            "artist": "The Human League",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Human-League-Dont-You-Want-Me.zip",
+            "fileSizeMB": 5.460000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Killers-Mr-Brightside",
+            "songName": "Mr. Brightside",
+            "artist": "The Killers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Killers-Mr-Brightside.zip",
+            "fileSizeMB": 5.139999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Killers-Somebody-Told-Me",
+            "songName": "Somebody Told Me",
+            "artist": "The Killers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Killers-Somebody-Told-Me.zip",
+            "fileSizeMB": 4.519999980926514,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-3-Way-The-Golden-Rule-feat-Justin-Timberlake-Lady-Gaga",
+            "songName": "3-Way (The Golden Rule) (feat. Justin Timberlake & Lady Gaga)",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-3-Way-The-Golden-Rule-feat-Justin-Timberlake-Lady-Gaga.zip",
+            "fileSizeMB": 3.930000066757202,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-Dick-In-A-Box",
+            "songName": "Dick In A Box",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-Dick-In-A-Box.zip",
+            "fileSizeMB": 3.690000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-Here-I-Go-ft-Charli-xcx",
+            "songName": "Here I Go (ft. Charli xcx)",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-Here-I-Go-ft-Charli-xcx.zip",
+            "fileSizeMB": 3.9000000953674318,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-I-Just-Had-Sex",
+            "songName": "I Just Had Sex",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-I-Just-Had-Sex.zip",
+            "fileSizeMB": 3.8299999237060549,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-Incredible-Thoughts",
+            "songName": "Incredible Thoughts",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-Incredible-Thoughts.zip",
+            "fileSizeMB": 4.050000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-Mona-Lisa",
+            "songName": "Mona Lisa",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-Mona-Lisa.zip",
+            "fileSizeMB": 3.640000104904175,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Lonely-Island-Motherlover-feat-Justin-Timberlake",
+            "songName": "Motherlover (feat. Justin Timberlake)",
+            "artist": "The Lonely Island",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Lonely-Island-Motherlover-feat-Justin-Timberlake.zip",
+            "fileSizeMB": 3.890000104904175,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Mamas-The-Papas-California-Dreamin",
+            "songName": "California Dreamin'",
+            "artist": "The Mamas & The Papas",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Mamas-The-Papas-California-Dreamin.zip",
+            "fileSizeMB": 3.7300000190734865,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Proclaimers-Im-Gonna-Be-500-Miles",
+            "songName": "I'm Gonna Be (500 Miles)",
+            "artist": "The Proclaimers",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Proclaimers-Im-Gonna-Be-500-Miles.zip",
+            "fileSizeMB": 4.980000019073486,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Rolling-Stones-Paint-It-Black",
+            "songName": "Paint It, Black",
+            "artist": "The Rolling Stones",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Rolling-Stones-Paint-It-Black.zip",
+            "fileSizeMB": 4.630000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Rolling-Stones-Sympathy-For-The-Devil",
+            "songName": "Sympathy For The Devil",
+            "artist": "The Rolling Stones",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Rolling-Stones-Sympathy-For-The-Devil.zip",
+            "fileSizeMB": 8.65999984741211,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Weeknd-Blinding-Lights",
+            "songName": "Blinding Lights",
+            "artist": "The Weeknd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Weeknd-Blinding-Lights.zip",
+            "fileSizeMB": 4.639999866485596,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Weeknd-Cant-Feel-My-Face",
+            "songName": "Can't Feel My Face",
+            "artist": "The Weeknd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Weeknd-Cant-Feel-My-Face.zip",
+            "fileSizeMB": 4.909999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Weeknd-Save-Your-Tears",
+            "songName": "Save Your Tears",
+            "artist": "The Weeknd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Weeknd-Save-Your-Tears.zip",
+            "fileSizeMB": 4.960000038146973,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-Weeknd-Starboy",
+            "songName": "Starboy",
+            "artist": "The Weeknd",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-Weeknd-Starboy.zip",
+            "fileSizeMB": 5.28000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "The-White-Stripes-Seven-Nation-Army",
+            "songName": "Seven Nation Army",
+            "artist": "The White Stripes",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/The-White-Stripes-Seven-Nation-Army.zip",
+            "fileSizeMB": 3.549999952316284,
+            "version": "1.0.0"
+        },
+        {
+            "id": "They-Might-Be-Giants-Istanbul-Not-Constantinople",
+            "songName": "Istanbul (Not Constantinople)",
+            "artist": "They Might Be Giants",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/They-Might-Be-Giants-Istanbul-Not-Constantinople.zip",
+            "fileSizeMB": 3.5199999809265138,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Tiffany-I-Think-Were-Alone-Now",
+            "songName": "I Think We're Alone Now",
+            "artist": "Tiffany",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Tiffany-I-Think-Were-Alone-Now.zip",
+            "fileSizeMB": 5.21999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Tom-Petty-Love-Is-A-Long-Road",
+            "songName": "Love Is A Long Road",
+            "artist": "Tom Petty",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Tom-Petty-Love-Is-A-Long-Road.zip",
+            "fileSizeMB": 5.690000057220459,
+            "version": "1.0.0"
+        },
+        {
+            "id": "TOOL-Forty-Six-2",
+            "songName": "Forty Six & 2",
+            "artist": "TOOL",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/TOOL-Forty-Six-2.zip",
+            "fileSizeMB": 8.350000381469727,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Toploader-Dancing-in-the-Moonlight",
+            "songName": "Dancing in the Moonlight",
+            "artist": "Toploader",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Toploader-Dancing-in-the-Moonlight.zip",
+            "fileSizeMB": 5.349999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Toto-Africa",
+            "songName": "Africa",
+            "artist": "Toto",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Toto-Africa.zip",
+            "fileSizeMB": 6.78000020980835,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Travis-Scott-FEN-feat-Playboi-Carti",
+            "songName": "FE!N (feat. Playboi Carti)",
+            "artist": "Travis Scott",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Travis-Scott-FEN-feat-Playboi-Carti.zip",
+            "fileSizeMB": 4.409999847412109,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Travis-Scott-goosebumps",
+            "songName": "goosebumps",
+            "artist": "Travis Scott",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Travis-Scott-goosebumps.zip",
+            "fileSizeMB": 5.610000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Travis-Scott-SICKO-MODE",
+            "songName": "SICKO MODE",
+            "artist": "Travis Scott",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Travis-Scott-SICKO-MODE.zip",
+            "fileSizeMB": 7.170000076293945,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Village-People-YMCA",
+            "songName": "YMCA",
+            "artist": "Village People",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Village-People-YMCA.zip",
+            "fileSizeMB": 6.599999904632568,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Weezer-Buddy-Holly",
+            "songName": "Buddy Holly",
+            "artist": "Weezer",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Weezer-Buddy-Holly.zip",
+            "fileSizeMB": 3.6500000953674318,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Weezer-Island-In-The-Sun",
+            "songName": "Island In The Sun",
+            "artist": "Weezer",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Weezer-Island-In-The-Sun.zip",
+            "fileSizeMB": 4.590000152587891,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Weezer-Say-It-Aint-So",
+            "songName": "Say It Ain't So",
+            "artist": "Weezer",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Weezer-Say-It-Aint-So.zip",
+            "fileSizeMB": 5.900000095367432,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Wig-Wam-Do-Ya-Wanna-Taste-It",
+            "songName": "Do Ya Wanna Taste It",
+            "artist": "Wig Wam",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Wig-Wam-Do-Ya-Wanna-Taste-It.zip",
+            "fileSizeMB": 4.059999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Yoshimasa-Terui-Delirious",
+            "songName": "Delirious",
+            "artist": "Yoshimasa Terui",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.0/Yoshimasa-Terui-Delirious.zip",
+            "fileSizeMB": 3.430000066757202,
+            "version": "1.0.0"
+        }
+    ]
+}
