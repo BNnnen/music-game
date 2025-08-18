@@ -4,41 +4,41 @@
             "id": "3-Doors-Down-Kryptonite",
             "songName": "Kryptonite",
             "artist": "3 Doors Down",
-            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.4/3-Doors-Down-Kryptonite.zip",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.5/3-Doors-Down-Kryptonite.zip",
             "fileSizeMB": 5.340000152587891,
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "id": "A-Flock-Of-Seagulls-I-Ran-So-Far-Away",
             "songName": "I Ran (So Far Away)",
             "artist": "A Flock Of Seagulls",
-            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.4/A-Flock-Of-Seagulls-I-Ran-So-Far-Away.zip",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.5/A-Flock-Of-Seagulls-I-Ran-So-Far-Away.zip",
             "fileSizeMB": 7.079999923706055,
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "id": "a-ha-Take-on-Me",
             "songName": "Take on Me",
             "artist": "a-ha",
-            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.4/a-ha-Take-on-Me.zip",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.5/a-ha-Take-on-Me.zip",
             "fileSizeMB": 5.170000076293945,
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "id": "A-Touch-of-Class-Around-the-World-La-La-La-La-La",
             "songName": "Around the World (La La La La La)",
             "artist": "A Touch of Class",
-            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.4/A-Touch-of-Class-Around-the-World-La-La-La-La-La.zip",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.5/A-Touch-of-Class-Around-the-World-La-La-La-La-La.zip",
             "fileSizeMB": 4.909999847412109,
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "id": "ABBA-Dancing-Queen",
             "songName": "Dancing Queen",
             "artist": "ABBA",
-            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.4/ABBA-Dancing-Queen.zip",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.5/ABBA-Dancing-Queen.zip",
             "fileSizeMB": 5.28000020980835,
-            "version": "1.0.0"
+            "version": "1.5"
         }
     ]
 }
