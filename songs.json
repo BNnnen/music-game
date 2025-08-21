@@ -1,0 +1,68 @@
+{
+    "songs": [
+        {
+            "id": "BNnnen-Electromagnetic-Ahh",
+            "songName": "Electromagnetic Ahh",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/BNnnen-Electromagnetic-Ahh.zip",
+            "fileSizeMB": 5.809999942779541,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-GHOSTLY",
+            "songName": "GHOSTLY",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/BNnnen-GHOSTLY.zip",
+            "fileSizeMB": 8.59000015258789,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-Music-Game-Soundtrack-Remix",
+            "songName": "Music Game Soundtrack Remix",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/BNnnen-Music-Game-Soundtrack-Remix.zip",
+            "fileSizeMB": 6.739999771118164,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-Stigpep",
+            "songName": "Stigpep",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/BNnnen-Stigpep.zip",
+            "fileSizeMB": 7.380000114440918,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Goon-Master-Another-One-Big-Booty-Latina",
+            "songName": "Another One (Big Booty Latina)",
+            "artist": "Goon Master",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/Goon-Master-Another-One-Big-Booty-Latina.zip",
+            "fileSizeMB": 6.96999979019165,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Hydrogen-Baby-Press-Play",
+            "songName": "Press Play",
+            "artist": "Hydrogen Baby",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/Hydrogen-Baby-Press-Play.zip",
+            "fileSizeMB": 6.829999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Hydrogen-Baby-Shilkmake",
+            "songName": "Shilkmake",
+            "artist": "Hydrogen Baby",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/Hydrogen-Baby-Shilkmake.zip",
+            "fileSizeMB": 6.789999961853027,
+            "version": "1.0.0"
+        },
+        {
+            "id": "LarryAG-Machines-Off",
+            "songName": "Machines Off",
+            "artist": "LarryAG",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.8/LarryAG-Machines-Off.zip",
+            "fileSizeMB": 6.710000038146973,
+            "version": "1.0.0"
+        }
+    ]
+}
