@@ -1,0 +1,52 @@
+{
+    "songs": [
+        {
+            "id": "BNnnen-Electromagnetic-Ahh",
+            "songName": "Electromagnetic Ahh",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/BNnnen-Electromagnetic-Ahh.zip",
+            "fileSizeMB": 5.820000171661377,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-GHOSTLY",
+            "songName": "GHOSTLY",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/BNnnen-GHOSTLY.zip",
+            "fileSizeMB": 8.600000381469727,
+            "version": "1.0.0"
+        },
+        {
+            "id": "BNnnen-Stigpep",
+            "songName": "Stigpep",
+            "artist": "BNnnen",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/BNnnen-Stigpep.zip",
+            "fileSizeMB": 7.360000133514404,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Hydrogen-Baby-Pizza-at-the-Speed-of-Light",
+            "songName": "Pizza at the Speed of Light",
+            "artist": "Hydrogen Baby",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/Hydrogen-Baby-Pizza-at-the-Speed-of-Light.zip",
+            "fileSizeMB": 6.800000190734863,
+            "version": "1.0.0"
+        },
+        {
+            "id": "Hydrogen-Baby-Press-Play",
+            "songName": "Press Play",
+            "artist": "Hydrogen Baby",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/Hydrogen-Baby-Press-Play.zip",
+            "fileSizeMB": 6.829999923706055,
+            "version": "1.0.0"
+        },
+        {
+            "id": "LarryAG-Machines-Off",
+            "songName": "Machines Off",
+            "artist": "LarryAG",
+            "downloadUrl": "https://github.com/BNnnen/music-game/releases/download/songs-v1.12/LarryAG-Machines-Off.zip",
+            "fileSizeMB": 6.690000057220459,
+            "version": "1.0.0"
+        }
+    ]
+}
